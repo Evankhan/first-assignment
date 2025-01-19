@@ -99,3 +99,40 @@ font-weight: 300px;
 .light{
     margin-top: 32px;
 }
+.News{
+    margin-left: 80px;
+    margin-right: 80px;
+}
+.newsfont{
+    font-size: 40px;
+    margin-bottom: 24px;
+}
+.newsp{
+    font-size: 16px;
+}
+.sat{
+    border: 1px solid #A1A1FF;
+    margin-left: 80px;
+    border-radius: 24px; 
+    display: flex;
+    margin-right: 80px;
+    
+}
+.bts{
+    background-color: #006A50;
+    color: white;
+}
+.ccc{
+    flex-wrap: wrap;
+    margin-left: 32px;
+    margin-right: 80px;
+}
+.sun{
+    border: 1px solid #A1A1FF;
+    margin-left: 80px;
+    margin-right: 80px;
+    border-radius: 24px; 
+    display: flex;
+    margin-top: 24px;
+    
+}
