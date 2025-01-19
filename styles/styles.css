@@ -5,6 +5,9 @@
   font-variation-settings:
     "wdth" 100;
 }
+.mcolor{
+    background-color: #F1F1F3;
+}
 .newbd{
     background-color: #006A50;
     color: #FFFFFF;
@@ -135,4 +138,67 @@ font-weight: 300px;
     display: flex;
     margin-top: 24px;
     
+}
+.donh4{
+    font-size: 40px;
+    font-weight: bold;
+    text-align: center;
+}
+.donp{
+    font-size: 16px;
+    text-align: center;
+}
+.donate{
+    margin-left: 80px;
+    margin-right: 80px;
+}
+.fourbuttons{
+    font-size: 40px;
+    font-weight: bold;
+    display: flex;
+    margin-left: 80px;
+    gap: 24px;
+}
+.taka100{
+    border: 1px solid white;
+    border-radius: 16px;
+    background-color: white;
+    width: 240px;
+    height: 128px;
+    padding: 30px;
+    text-align: center;
+}
+.taka200{
+    border: 1px solid white;
+    border-radius: 16px;
+    background-color: #C6E4D6;
+    width: 240px;
+    height: 128px;
+    padding: 30px;
+    text-align: center;
+}
+.taka300{
+    border: 1px solid white;
+    border-radius: 16px;
+    background-color: white;
+    width: 240px;
+    height: 128px;
+    padding: 30px;
+    text-align: center;
+}
+.taka400{
+    border: 1px solid white;
+    border-radius: 16px;
+    background-color: white;
+    width: 240px;
+    height: 128px;
+    padding: 30px;
+    text-align: center;
+    margin-right: 80px;
+}
+.plc{
+    margin-left: 80px;
+    margin-top: 32px;
+    width: 1090px;
+    text-align: center;
 }
