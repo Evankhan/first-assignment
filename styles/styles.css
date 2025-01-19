@@ -40,3 +40,62 @@ font-weight: 300px;
     margin-left: 80px;
     margin-right: 50px;
 }
+.futureh4{
+    font-size: 40px;
+}
+.futurep{
+    font-size: 16px;
+}
+.main{
+    display: flex;
+    gap: 24px;
+}
+.fdiv{
+    border: 1px solid;
+    border-radius: 16px;
+    background-color: #81B4FC;
+    width: 410px;
+    margin-left: 80px;
+    padding-left: 32px;
+    padding-right: 32px;
+}
+.sdiv{
+    border: 1px solid;
+    padding-left: 32px;
+    padding-right: 32px;
+    border-radius: 16px;
+    background-color: #C6E4D6;
+}
+.tdiv{
+    border: 1px solid;
+    margin-right: 50px;
+    padding-left: 32px;
+    padding-right: 32px;
+    border-radius: 16px;
+    background-color: #F7EBCF;
+}
+.GE{
+    font-size: 20px;
+    font-weight:bold;
+}
+.GEDESC{
+    font-size: 16px;
+}
+.bt1{
+    background-color: #5490F5;
+    color: white;
+    margin-bottom: 30px;
+}
+.bt2{
+    background-color: #09A15C;
+    color: white;
+    margin-bottom: 30px;
+}
+.bt3{
+    background-color: #FFC239;
+    color: white;
+    margin-bottom: 30px;
+}
+.light{
+    margin-top: 32px;
+}
